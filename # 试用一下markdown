@@ -1,0 +1,45 @@
+# 试用一下markdown
+
+------
+
+第一次使用 **markdown** 需要：
+
+> * 熟悉语法
+
+------
+## 图片
+
+![logo][id]
+[id]: 
+https://github.com/lizhao0412/liumang/blob/master/logo.jpg
+------
+## 无序列表
+
+* red
+* blue
+* green
+
+------
+## 有序列表
+
+1. red
+2. green
+3. blue
+------
+## 链接
+
+This is [GitHub] (https://github.com/)
+
+## code
+`<p>`段落`<p>`
+
+
+## pre
+
+<blockquote>
+<p>For example.</p>
+</blockquote>
+
+
+
+
